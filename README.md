@@ -1,0 +1,1 @@
+Data Engineer specializing in ETL transformations with Google Cloud Platform (GCP). Proficient in designing scalable pipelines using BigQuery, Cloud Storage, Pub/Sub, Dataflow, and Cloud Composer. Expertise in automating workflows for efficient data management and real-time analytics
