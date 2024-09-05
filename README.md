@@ -4,7 +4,6 @@
 
 - 📫 How to reach me **vempalli.tejeswar@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
