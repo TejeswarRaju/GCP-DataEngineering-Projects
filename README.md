@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tejeswar Raju Vempalli</h1>
 <h3 align="center">Data Engineer Specializing in Scalable ETL Pipelines and Cloud Solutions</h3>
 
-- 📫 How to reach me **vempalli.tejeswar@gmail.com**
+- 📫 How to reach me **tejeswarvempalli3@gmail.com**
 
 <p align="left">
 </p>
